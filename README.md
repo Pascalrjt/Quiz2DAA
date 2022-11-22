@@ -25,6 +25,7 @@
 #       - Making the grid randomizer to make the game way more fun!<br>
 #       - Making the README.md file<br>
 #       - Report on Code Explanation<br>
+#       - Report on the output of the code<br>
 <br>   
 <body>        
 # Ariel (33,3 %)<br>
