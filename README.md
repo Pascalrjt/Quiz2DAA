@@ -1,10 +1,10 @@
 <h1>Quiz2DAA</h1>
 # Name	1	  : Pascal Roger Junior Tauran<br>
-# NRP		  : 5025211072<br>
+# Student ID		  : 5025211072<br>
 # Name  2	  : Faraihan Rafi Adityawarman<br>
-# NRP		  : 5025211074<br>
+# Student ID		  : 5025211074<br>
 # Name 3	  : Ariel Pratama Menlolo<br>
-# NRP		  : 5025211194<br>
+# Student ID		  : 5025211194<br>
 
 
 <h2>Contributions on Project</h2>
