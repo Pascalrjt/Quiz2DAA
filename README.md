@@ -6,7 +6,7 @@
 # Name 3	  : Ariel Pratama Menlolo<br>
 # NRP		  : 5025211194<br>
 
-<h3>Contributions</h3>
+<h3>Contributions on Project</h3>
 
 # Pascal (33,3 %)
 #    Contributions :
