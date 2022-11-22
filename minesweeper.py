@@ -32,9 +32,10 @@ player_grid = np.array ([
     [-1,-1,-1,-1,-1,-1,-1,-1,-1]
 ])
 
+# This will allow the grid to be randomized
 np.random.shuffle(grid)
 
-
+# Count how many bombs surrounding the selected cell
 def count(row, col):
     offsets = ((-1,-1),(-1,0),(-1,1),(0,1),(1,1),(1,0),(1,-1),(0,-1))
     count = 0
@@ -48,7 +49,7 @@ def count(row, col):
                 count += 1
     return count
         
-
+# Selecting the cell
 def click(row, col):
     # Check if it is a bomb
     if grid[row][col] == MINE:
@@ -76,6 +77,7 @@ def click(row, col):
                             player_grid[row][col] = count(row,col)
     
 
+# To show the grid
 def show_grid():
     symbols = {-2:"F", -1:"."}
     for row in range(len(player_grid)):
@@ -88,7 +90,7 @@ def show_grid():
             print(f"{symbol} ", end='')
         print("")
 
-# For printing the original grid for debugging
+# For printing the original grid after it got randomized for debugging
 def show_mineGrid() :
     print("this is the table of the grid : ", grid)
     print("0 = Empty\n1 = Bomb")
