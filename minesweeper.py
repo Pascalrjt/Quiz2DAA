@@ -52,7 +52,7 @@ def click(row, col):
     # Check if it is a bomb
     if grid[row][col] == MINE:
         flag = 1
-        print("BOOM!")
+        print("BOOM! You are ded :p")
     elif player_grid[row][col] == UNKNOWN:
         player_grid[row][col] = count(row, col) 
         
