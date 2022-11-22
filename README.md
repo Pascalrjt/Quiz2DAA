@@ -15,6 +15,8 @@
 #        - Making the count function to count how many bombs surrounding the selected cell<br>
 #        - Making the click function to tell where the selected cell<br>
 #        - Report on Source Code<br>
+#        - Submitting the File<br>
+  
 <br>        
 <body>
 # Rafi (33,3 %)<br>
@@ -25,12 +27,12 @@
 #       - Report on Code Explanation<br>
 <br>   
 <body>        
-# Ariel (33,3 %)
-#    Contributions :
-#        - Making the show_grid and show_MineGrid functions
-#        - Making the Report file
-#        - Report on the game definition
-#        - Report on how the game works
+# Ariel (33,3 %)<br>
+#    Contributions :<br>
+#        - Making the show_grid and show_MineGrid functions<br>
+#        - Making the Report file<br>
+#        - Report on the game definition<br>
+#        - Report on how the game works<br>
 <br>
 <body>
 # Docs link :<br>
