@@ -4,6 +4,7 @@ EMPTY = 0
 MINE = 1
 UNKNOWN = -1
 
+# Flag for looping
 flag = 0
 
 grid = np.array ([
@@ -85,12 +86,13 @@ def show_grid():
                 symbol = str(value)
             print(f"{symbol} ", end='')
         print("")
-# To show the default grid for debugging    
+
+# For printing the original grid for debugging
 def show_mineGrid() :
     print("this is the table of the grid : ", grid)
     print("0 = Empty\n1 = Bomb")
 
-# Code Input
+# Running the code
 while True:
     show_grid()
     inprow = int(input("Input the row"))
