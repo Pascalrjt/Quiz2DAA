@@ -1,5 +1,5 @@
 import numpy as np
-# Declaring constants
+# Declare Constants
 EMPTY = 0
 MINE = 1
 UNKNOWN = -1
