@@ -8,6 +8,7 @@
 
 <h1>Contributions on Project</h1>
 
+<body>
 # Pascal (33,3 %)
 #    Contributions :
 #        - Making the count function to count how many bombs surrounding the selected cell
@@ -31,3 +32,4 @@
 
 # Docs link :
 <url>https://docs.google.com/document/d/1G8wKI45SuVGB22R9022ckhi6sJ0BKl1cxPKMrMHiQgQ/edit?usp=sharing</url>
+</body>
