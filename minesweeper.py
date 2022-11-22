@@ -1,5 +1,5 @@
 import numpy as np
-# Declare constants
+# Declaring constants
 EMPTY = 0
 MINE = 1
 UNKNOWN = -1
@@ -85,12 +85,12 @@ def show_grid():
                 symbol = str(value)
             print(f"{symbol} ", end='')
         print("")
-    
+# To show the default grid for debugging    
 def show_mineGrid() :
     print("this is the table of the grid : ", grid)
     print("0 = Empty\n1 = Bomb")
 
-# TESTING CODE
+# Code Input
 while True:
     show_grid()
     inprow = int(input("Input the row"))
