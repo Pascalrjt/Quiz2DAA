@@ -35,7 +35,7 @@ player_grid = np.array ([
 # This will allow the grid to be randomized
 np.random.shuffle(grid)
 
-# Count how many bombs surrounding the selected cell
+# Count the number of bombs surrounds the selected cell
 def count(row, col):
     offsets = ((-1,-1),(-1,0),(-1,1),(0,1),(1,1),(1,0),(1,-1),(0,-1))
     count = 0
