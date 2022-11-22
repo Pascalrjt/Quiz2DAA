@@ -7,6 +7,23 @@ UNKNOWN = -1
 # Flag for looping
 flag = 0
 
+# Inputting a custom grid
+# size = int(input("input the size of grid \n(example : 2 = 2x2; 3 = 3x3) : " ))
+# grid = []
+# player_grid = []
+
+# for i in range(size) :
+#     temp = []
+#     for j in range(size) :
+#         temp.append(rand.randint(0, 1))
+#     grid.append(temp)
+
+# for i in range(size) :
+#     temp = []
+#     for j in range(size) :
+#         temp.append(-1)
+#     grid.append(temp)
+
 # Grid for the game
 grid = np.array ([
     [0,0,0,0,0,0,0,0,0],
