@@ -16,7 +16,7 @@
 #        - Making the click function to tell where the selected cell<br>
 #        - Report on Source Code<br>
 <br>        
-        
+<body>
 # Rafi (33,3 %)<br>
 #    Contributions :<br>
 #       - Making the grid<br>
@@ -24,7 +24,7 @@
 #       - Making the README.md file<br>
 #       - Report on Code Explanation<br>
 <br>   
-        
+<body>        
 # Ariel (33,3 %)
 #    Contributions :
 #        - Making the show_grid and show_MineGrid functions
@@ -32,7 +32,7 @@
 #        - Report on the game definition
 #        - Report on how the game works
 <br>
-
+<body>
 # Docs link :<br>
 <url>https://docs.google.com/document/d/1G8wKI45SuVGB22R9022ckhi6sJ0BKl1cxPKMrMHiQgQ/edit?usp=sharing</url><br>
 <br>
